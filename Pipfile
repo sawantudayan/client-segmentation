@@ -8,8 +8,8 @@ pandas =  "*"
 seaborn = "*"
 matplotlib = {version="*", index-url="https://mirrors.tuna.tsinghua.edu.cn/python/simple"}
 
-
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.7"
